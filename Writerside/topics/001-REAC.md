@@ -325,7 +325,7 @@ intégrité, disponibilité) est une préoccupation constante.
 
 ---
 
-### **ACTIVITÉ-TYPE 3 : Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité.**
+## **ACTIVITÉ-TYPE 3 : Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité.**
 
 **Description générale de l'activité-type :**
 Le concepteur développeur d'applications participe à l'ensemble du cycle de vie d'un projet applicatif plus complexe,
