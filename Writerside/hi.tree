@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="001-REAC.md">
+
+    <toc-element topic="001-REAC.md"/>
+    <toc-element topic="002-Le-dossier-professionnel.md"/>
+    <toc-element topic="003-Choix-du-projet-perso.md">
+        <toc-element topic="003-01-Methodes-pour-trouver-un-projet.md"/>
+        <toc-element topic="003-02-Methode-de-specification-du-projet.md"/>
+    </toc-element>
+    <toc-element topic="004-Rapport-de-projet.md">
+        <toc-element topic="004-01-Exemples-de-diagrammes.md"/>
+    </toc-element>
+</instance-profile>
