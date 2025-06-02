@@ -98,6 +98,8 @@ Ce plan est une suggestion et peut être adapté en fonction de la nature spéci
 *   *Exemple de diagramme :* Boîtes pour les entités/tables, attributs listés, relations avec cardinalités (1-1, 1-N, N-N).
 *   Explication des principales entités, de leurs attributs et des relations.
 *   Justification des choix de modélisation (ex: pourquoi telle relation, normalisation).
+  * Éventuellement présentation du dictionnaire de données et du graphe de dépendances fonctionnelles pour justifier 
+    les choix.
 ##### 3.2.2. **Choix du Système de Gestion de Base de Données (SGBD)**
 *   Quel SGBD a été utilisé (PostgreSQL, MySQL, SQLite, MongoDB...) ?
 *   Brève justification de ce choix par rapport aux besoins du projet.
